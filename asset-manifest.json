@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/airbnb/static/css/main.5135f391.css",
-    "main.js": "/airbnb/static/js/main.c50f6995.js",
+    "main.css": "/airbnb/static/css/main.aa480a48.css",
+    "main.js": "/airbnb/static/js/main.e47fd4fc.js",
     "static/js/787.3cbcfc7e.chunk.js": "/airbnb/static/js/787.3cbcfc7e.chunk.js",
     "static/media/Group 77.png": "/airbnb/static/media/Group 77.072626b8e8ff69932f03.png",
-    "static/media/image 12.png": "/airbnb/static/media/image 12.5d736ac3dc01f817ff4d.png",
-    "static/media/wedding-photography 1.png": "/airbnb/static/media/wedding-photography 1.9978c5b012896f7188c1.png",
-    "static/media/mountain-bike 1.png": "/airbnb/static/media/mountain-bike 1.057326c626e54dd53ad0.png",
+    "static/media/image12.png": "/airbnb/static/media/image12.5d736ac3dc01f817ff4d.png",
+    "static/media/mountain-bike 1.png": "/airbnb/static/media/mountain-bike 1.3f7163dbe95f1466770b.png",
+    "static/media/wedding-photography.png": "/airbnb/static/media/wedding-photography.9978c5b012896f7188c1.png",
     "static/media/indonesia.jpg": "/airbnb/static/media/indonesia.6d62628a730761058d45.jpg",
     "static/media/tailand.jpg": "/airbnb/static/media/tailand.a036a5271e7d1aa5161f.jpg",
     "index.html": "/airbnb/index.html",
-    "main.5135f391.css.map": "/airbnb/static/css/main.5135f391.css.map",
-    "main.c50f6995.js.map": "/airbnb/static/js/main.c50f6995.js.map",
+    "main.aa480a48.css.map": "/airbnb/static/css/main.aa480a48.css.map",
+    "main.e47fd4fc.js.map": "/airbnb/static/js/main.e47fd4fc.js.map",
     "787.3cbcfc7e.chunk.js.map": "/airbnb/static/js/787.3cbcfc7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5135f391.css",
-    "static/js/main.c50f6995.js"
+    "static/css/main.aa480a48.css",
+    "static/js/main.e47fd4fc.js"
   ]
 }
