@@ -7,7 +7,7 @@ export default function HeroSection(){
          <div className="hero__container">
             <img className="image1" src={MainImage} alt="images of happy costumers"></img>
             <h1 className="titel">Online Experiences</h1>
-            <p className="hero__text-1">Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.
+            <p className="hero__text-1">Join unique interactive activities led by one-of-a-kind hosts.
 </p>
 
          </div>

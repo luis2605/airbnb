@@ -10,6 +10,7 @@
 /**/
 
 .card{
+    position: relative;
     max-width: 200px;
     margin: 2em 1em;
     display: flex;
@@ -17,10 +18,14 @@
     align-items: flex-start;
 }
 .card__photo{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
     margin: 0 auto;
     border-radius: 15px;
-    width: 150px ;
-    height: 200px;
+   
+    
    
     
 }
@@ -35,3 +40,22 @@ p{
     margin: 0.5em; 
 }
 
+.card__badge{
+    position: absolute;
+   top:1em;
+   left: 1.5em;
+    background-color: rgba(228, 217, 217, 0.5);
+    padding: .5em .6em;
+    border-radius: 2px;
+    font-size: .7rem;
+    font-weight: bold;
+    transform: rotate(-40deg);
+   
+}
+@media (min-width:1024px){
+
+    .card__badge{
+        left: -.5em;
+        top: 1.5em;
+    }
+}

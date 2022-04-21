@@ -15,12 +15,17 @@ width: 100%;
 .card__container{
   display: flex;
   align-items: flex-start;
+ 
 }
 @media (max-width:1024px){
   .card__container{
       flex-wrap: wrap;
-      align-items: center;
+      align-items: flex-start;
       justify-content: center;
 
+
+  }
+  .card__badge{
+    left: .5em;
   }
 }
